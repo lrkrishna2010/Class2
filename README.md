@@ -5,9 +5,9 @@ This package contains a ready-to-run educational notebook and supporting modules
 
 ## Structure
 ```
-quant_risk_framework_v4_2/
+quant_risk_framework/
 ├── notebooks/
-│   └── Week1_Interactive_v4_2.ipynb
+│   └── Week1_Interactive.ipynb
 ├── src/
 │   ├── risk_models.py
 │   ├── optimization.py
