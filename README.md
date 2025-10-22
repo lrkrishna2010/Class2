@@ -1,5 +1,5 @@
 
-# Quant Risk Framework v4.2 — Educational Edition
+# Quant Risk Framework  — Educational Edition
 
 This package contains a ready-to-run educational notebook and supporting modules for **quantitative risk and portfolio optimization**.
 
