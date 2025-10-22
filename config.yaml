@@ -1,0 +1,14 @@
+
+general:
+  seed: 42
+  rebalance_freq: 'M'
+  tx_cost_bps: 5.0
+
+risk:
+  var_alpha: 0.05
+  rolling_window: 252
+
+optimization:
+  method: 'mv'
+  gamma: 5.0
+  long_only: true
